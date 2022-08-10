@@ -1,4 +1,5 @@
 version 1.0 
+# test WDL
 
 workflow HelloWorld {
   call WriteGreeting
